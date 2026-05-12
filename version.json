@@ -1,0 +1,10 @@
+{
+  "latest_version": "1.0.1",
+  "release_notes": [
+    "New exams added",
+    "PDF download fixed",
+    "Synonyms & Antonyms theory section",
+    "Bug fixes and performance improvements"
+  ],
+  "force_update": false
+}
